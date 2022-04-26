@@ -77,7 +77,7 @@ function Dashboard() {
   return (
     <MDBox m={5} p={7} bgColor="#E5E5E5" borderRadius="10">
       <Grid container spacing={3}>
-        <Grid item xs={12} md={6} lg={4}>
+        <Grid item xs={12} md={6} lg={4} mb={5}>
           <Card>
             <MDBox
               variant="gradient"
